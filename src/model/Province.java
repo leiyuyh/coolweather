@@ -17,7 +17,7 @@ public class Province {
 		return provinceName;
 	}
 
-	public void setProcinceName(String provinceName) {
+	public void setProvinceName(String provinceName) {
 		this.provinceName = provinceName;
 	}
 
